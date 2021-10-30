@@ -1,3 +1,3 @@
-# Change-Up-Bot-States
+# Change-Up-Bot-Worlds
 
-Code for VEX Georgia State Championship
+Code for VEX World Championship
